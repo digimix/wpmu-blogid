@@ -10,7 +10,6 @@ License:            MIT License
 License URI:        http://opensource.org/licenses/MIT
 */
 
-<?php
 add_filter( 'wpmu_blogs_columns', 'do_get_id' );
 add_action( 'manage_sites_custom_column', 'do_add_columns', 10, 2 );
 add_action( 'manage_blogs_custom_column', 'do_add_columns', 10, 2 );
