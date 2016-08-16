@@ -1,0 +1,24 @@
+{
+    "name": "digimix/wpmu-blogid",
+    "description": "WordPress plugin for displayin blog IDs, $blogid, as an admin column on WordPress multisites.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.5"
+    },
+    "version": "1.0.0",
+    "keywords": ["wordpress"],
+    "homepage": "https://github.com/digimix/wpmu-blogid",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christine Cardoso",
+            "email": "christine@digimix.co",
+            "homepage": "https://digimix.co"
+        },
+        {
+	        "name": "Michael Salafia",
+            "email": "michael@digimix.co",
+            "homepage": "https://digimix.co"
+        }
+    ]
+}
