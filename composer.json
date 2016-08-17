@@ -5,7 +5,7 @@
     "require": {
         "php": ">=5.5"
     },
-    "version": "0.1.1",
+    "version": "1.0.1",
     "keywords": ["wordpress"],
     "homepage": "https://github.com/digimix/wpmu-blogid",
     "license": "MIT",
